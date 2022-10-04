@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delphyinium&label=Profile%20views&color=8521a1&style=flat" alt="delphyinium" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delphyinium" alt="delphyinium" /></a> </p>
-
 - 🔭 I’m currently working on [Ayumi/Nagasaki, a DiscordJS bot!](https://github.com/delphyinium/AyumiRewrite)
 
 - 🌱 I’m currently learning **Vue and Flutter!**
